@@ -648,7 +648,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = /Users/ljq/Desktop/NDLiveMsgRoom/NDLiveMsgRoom/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/NDLiveMsgRoom/PrefixHeader.pch";
 				INFOPLIST_FILE = NDLiveMsgRoom/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -668,7 +668,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = /Users/ljq/Desktop/NDLiveMsgRoom/NDLiveMsgRoom/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/NDLiveMsgRoom/PrefixHeader.pch";
 				INFOPLIST_FILE = NDLiveMsgRoom/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = (

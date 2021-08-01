@@ -33,6 +33,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)initMsgAttribute;
 
+@property (nonatomic, strong) NSArray *sources;
+
 @end
 
 NS_ASSUME_NONNULL_END

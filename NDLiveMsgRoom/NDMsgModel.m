@@ -16,4 +16,9 @@
     self.attributeModel = [[NDMsgAttributeModel alloc] initWithMsgModel:self];
 }
 
+
+- (void)addMethod {
+    
+}
+
 @end
