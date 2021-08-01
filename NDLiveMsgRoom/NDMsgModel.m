@@ -18,6 +18,7 @@
 
 
 - (void)addMethod {
+    NSLog(@"打印加入");
 
 }
 
