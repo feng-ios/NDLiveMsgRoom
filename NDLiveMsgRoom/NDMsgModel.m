@@ -17,8 +17,8 @@
 }
 
 
-- (void)addMethod {
-    
+- (void)addOtherMethod {
+    NSLog(@"Git命令学习");
 }
 
 @end
